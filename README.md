@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caruso013&layout=compact&hide_border=true&title_color=191970&text_color=DCDCDC&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Caruso013&bg_color=0d0d0d&color=6a5acd&line=6a5acd&point=191970&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Caruso013_title=This%20is%20a%20Working%20graph_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
 <a href="https://instagram.com/caruso013" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
