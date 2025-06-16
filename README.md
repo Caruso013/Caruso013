@@ -2,7 +2,7 @@
 
 Sou Desenvolvedor Full Stack em formação com foco em soluções web modernas, intuitivas e escaláveis. Tenho experiência com projetos reais e pessoais, desde sistemas internos (como controle de estoque e achados e perdidos) até plataformas com autenticação, integração com APIs externas e visual moderno usando React, TailwindCSS e Supabase.
 
-Atualmente estudo Análise e Desenvolvimento de Sistemas na UNIP e busco oportunidades que me permitam evoluir como dev e contribuir com times que valorizam tecnologia de verdade.
+  Atualmente estudo Análise e Desenvolvimento de Sistemas na UNINOVE e busco oportunidades que me permitam evoluir como dev e contribuir com times que valorizam tecnologia de verdade.
 
 ---
 
