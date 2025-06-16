@@ -1,31 +1,48 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header"/>
+# 👋 Olá, eu sou o Pedro Domingos
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9370DB&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Domingos;I'm+21+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+Sou Desenvolvedor Full Stack em formação com foco em soluções web modernas, intuitivas e escaláveis. Tenho experiência com projetos reais e pessoais, desde sistemas internos (como controle de estoque e achados e perdidos) até plataformas com autenticação, integração com APIs externas e visual moderno usando React, TailwindCSS e Supabase.
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Caruso013&show_icons=true&count_private=true&hide_border=true&title_color=191970&icon_color=6A5ACD&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Domingos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caruso013&layout=compact&hide_border=true&title_color=191970&text_color=DCDCDC&bg_color=0d1117" />
-</div>
+Atualmente estudo Análise e Desenvolvimento de Sistemas na UNIP e busco oportunidades que me permitam evoluir como dev e contribuir com times que valorizam tecnologia de verdade.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Caruso013&bg_color=000000&color=6A5ACD&line=9400d3&point=331343&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Caruso013&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+## 💼 Tecnologias e Ferramentas
 
-<div align="center"> 
-<a href="https://instagram.com/caruso013" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:pedromkk13@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/PedroDRJ/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-  ### Things that I've been learning in the last months 📱:
- <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
- <img src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> </img>
- <img src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
- <img src = "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
- <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
- <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
+## 📌 Alguns projetos legais que desenvolvi:
+
+- 🤖 **Chatbot FURIA E-Sports** — Chatbot com respostas dinâmicas para fãs da FURIA, com integração de notícias e jogos.
+- 📁 **Sistema de Achados e Perdidos** — Aplicação web simples com banco de dados para cadastro e busca de itens.
+
+> Todos os projetos usam stacks modernas como React, Supabase, Tailwind e são organizados com foco em boas práticas.
+
+---
+
+## 🧩 O que me diferencia?
+
+- 📌 Foco em **código limpo e organizado**
+- 💬 Comunicação clara e adaptação rápida
+- 🧠 Curioso por novas tecnologias e boas práticas
+- 🧪 Testo minhas ideias em projetos reais ou de estudo
+- 🚀 Experiência com deploys na **Vercel**, **Netlify** e CRM com **Bitrix24**
+
+---
+
+## 📫 Vamos conversar?
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pedrodrj)
+- 💌 pedromkk13@gmail.com
+- 💻 [Meu GitHub](https://github.com/Caruso013)
+
+---
+
+🧠 *“Não busco apenas escrever código, mas criar experiências que façam sentido para quem usa e para quem mantém.”*
